@@ -18,7 +18,6 @@ public class Problem2 {
     }
 
     public int run() {
-
         int prevTerm = 0;
         int lastTerm = 1;
         int sum = 0;
@@ -33,9 +32,6 @@ public class Problem2 {
             if (lastTerm % 2 == 0) {
                 sum += lastTerm;
             }
-//            System.out.println("tmpSwap = " + tmpSwap);
-//            System.out.println("last term = " + lastTerm);
-//            System.out.println("prev term = " + prevTerm);
         }
         return sum;
     }
