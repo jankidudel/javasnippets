@@ -1,4 +1,4 @@
-package org.jankidudel;
+package org.jankidudel.algorithms;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

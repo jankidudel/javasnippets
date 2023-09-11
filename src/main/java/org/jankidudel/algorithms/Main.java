@@ -1,4 +1,4 @@
-package org.jankidudel;
+package org.jankidudel.algorithms;
 
 public class Main {
     public static void main(String[] args) {

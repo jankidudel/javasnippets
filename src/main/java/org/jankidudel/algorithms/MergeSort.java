@@ -1,4 +1,4 @@
-package org.jankidudel;
+package org.jankidudel.algorithms;
 
 class MergeSort {
 

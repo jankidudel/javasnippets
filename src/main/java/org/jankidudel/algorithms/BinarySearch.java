@@ -1,4 +1,4 @@
-package org.jankidudel;
+package org.jankidudel.algorithms;
 
 class BinarySearch {
     public int search(Integer[] input, int searchElem) {
