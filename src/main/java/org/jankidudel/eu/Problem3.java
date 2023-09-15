@@ -12,7 +12,6 @@ public class Problem3 {
     }
 
     public static void main(String[] args) {
-//        Problem3 problem3 = new Problem3(13195);
         Problem3  problem3 = new Problem3();
         int result = problem3.run();
         System.out.println("Result = " + result);
